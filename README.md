@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yukasezura
 - 👀 I’m interested in gaming, music and web developement and also in programming and web apps.
-- 🌱 I’m currently learning Python and i'm doing a course to become a full stack developer
+- 🌱 I’m currently learning React and also Python as a sidequest, mainly focussing on a course to become a full stack developer
 - 💞️ I’m looking to collaborate on anything that might help me improve and become better 
 - 📫 You can reach me by simply sending me a message via github
 
